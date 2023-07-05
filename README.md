@@ -1,5 +1,3 @@
-# SubHunter
-
 ![SubHunter Logo](assets/SubHunter.png)
 
 ![Last commit](https://img.shields.io/github/last-commit/infamousjoeg/SubHunter)
